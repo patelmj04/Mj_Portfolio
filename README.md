@@ -1,6 +1,9 @@
+# Mj_Portfolio
+Personal Portfolio  
+
 # Portfolio V5  
 Hello everyone!  
-Let me introduce myself, I’m Eki Zulfar Rachman. On this occasion, I’d like to share the portfolio website project that I’ve developed.  
+Let me introduce myself, I’m **Mit Patel**, a Computer Science undergraduate student, a creative **UI/UX designer**, and a **frontend developer**. On this occasion, I’d like to share the portfolio website project that I’ve developed.  
 
 **Tech Stack used:**  
 - ReactJS  
@@ -11,11 +14,6 @@ Let me introduce myself, I’m Eki Zulfar Rachman. On this occasion, I’d like 
 - Lucide  
 - Material UI  
 - SweetAlert2  
-
-**Website Link:**  
-[https://www.eki.my.id/](https://www.eki.my.id/)  
-
-We would appreciate it if you decide to use this project. Please include credit when using it. Thank you! 🙏  
 
 ---
 
