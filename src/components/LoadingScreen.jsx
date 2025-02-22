@@ -4,7 +4,7 @@ const LoadingScreen = () => {
   return (
     <div className="min-h-screen bg-[#030014] flex items-center justify-center">
       <div className="relative">
-        <div className="absolute -inset-4 bg-gradient-to-r from-[#6366f1] to-[#a855f7] rounded-full opacity-20 blur-2xl animate-pulse"></div>
+        <div className="absolute -inset-4 bg-gradient-to-r from-[#1c1e6f] to-[#3c0a6b] rounded-full opacity-20 blur-2xl animate-pulse"></div>
         <div className="relative flex flex-col items-center gap-4 p-8">
           <div className="w-12 h-12 rounded-full border-4 border-t-transparent border-[#6366f1] animate-spin"></div>
           <div className="relative">
